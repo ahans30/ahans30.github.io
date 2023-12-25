@@ -1,12 +1,7 @@
-github_users:
-  - torvalds
-  - alshedivat
+# github_users:
+  # - ahans30
+  # - alshedivat
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ahans30/ActiveLearning
+  - ahans30/Multi-Armted-Bandit

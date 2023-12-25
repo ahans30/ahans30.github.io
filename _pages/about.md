@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 I'm CS graduate student at the <a href="https://www.cs.umd.edu/" target="_blank">University of Maryland, College Park</a> advised by Prof. <a href="https://www.cs.umd.edu/~tomg/" target="_blank">Tom Goldstein</a>. 
 
-My research interests lie in the cross-section of machine learning and security with the general goal of aligning machine learning models towards robustness and fairness. Before graduate school, I worked in the industry for 5 years in machine learning and data science roles. I hold my bachelors in mathematics.
+My research interests include making machine learning secure, robust, and fair. Before graduate school, I worked in the industry for 5 years in machine learning and data science roles. I hold a bachelor's degree in mathematics.
 
 I'm looking for a research internship for summer 2024. If you are looking to hire an intern, please hit me up!
 
