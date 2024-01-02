@@ -9,7 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><i>"You never know what is enough until you know what is more than enough.”</i></p>
+    <p><i>“You never know what is enough until you know what is more than enough.”</i></p>
+    <p></p>
     <p> ― William Blake, Proverbs of Hell </p>
     <!-- <p>College Park, MD</p>
     <!-- <p>123 your address street</p>
