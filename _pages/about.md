@@ -28,7 +28,7 @@ I'm CS graduate student at the <a href="https://www.cs.umd.edu/" target="_blank"
 
 My research interests revolve around ensuring the security, robustness, and fairness of machine learning models. Before graduate school, I worked in the industry for 5 years in machine learning and data science roles. I hold a bachelor's degree in mathematics.
 
-I'm looking for a research internship for summer 2024. If you are looking to hire an intern, please hit me up!
+I'm looking for a research internship for summer 2025. If you are looking to hire an intern, please hit me up!
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
