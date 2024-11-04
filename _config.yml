@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Abhimanyu
 middle_name:
 last_name: Hans
-email: ahans1@umiacs.umd.edu
+email: ahans1@cs.umd.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Abhimanyu Hans personal webpage | CS Graduate Student at UMD
 footer_text: >
@@ -72,7 +72,7 @@ x_username: ahans30 # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: abhimanyu-hans-891a15122/ # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: b77HAM8AAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
