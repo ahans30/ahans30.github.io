@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: Code
+title: code
 description: You can find implementations for a number of recent projects below.
 nav: true
 nav_order: 3
