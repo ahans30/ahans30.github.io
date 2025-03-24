@@ -28,7 +28,7 @@ I'm CS graduate student at [University of Maryland, College Park](https://www.cs
 
 My research focuses on improving generative models along two axes. First, I aim to make existing models more secure, efficient, and privacy-preserving. This includes my work on [detecting LLM-generated text with high precision](https://github.com/ahans30/Binoculars) and [a memorization-mitigating training recipe for LLMs](https://github.com/ahans30/goldfish-loss). The second axis is improving upon existing capabilities, which involves architectural shifts, recipe refinements, and training data improvements.
 
-Before graduate school, I worked in the industry for 5 years in machine learning and data science roles. I hold a bachelor’s degree in mathematics. I hold my a masters in computer from UMD (current instituition) and bachelors in mathematics from the University of Delhi.
+<!-- Before graduate school, I worked in the industry for 5 years in machine learning and data science roles. I hold my a masters in computer science from UMD  and bachelors in mathematics from the University of Delhi. -->
 
 I’m looking for a research internship for summer 2025. If you are looking to hire an intern, please hit me up!
 
