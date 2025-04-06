@@ -24,7 +24,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm CS graduate student at [University of Maryland, College Park](https://www.cs.umd.edu/) advised by Prof. [Tom Goldstein](https://www.cs.umd.edu/~tomg/). 
+I'm CS PhD student at [University of Maryland, College Park](https://www.cs.umd.edu/) advised by Prof. [Tom Goldstein](https://www.cs.umd.edu/~tomg/). 
 
 My research focuses on improving generative models along two axes. First, I aim to make existing models more secure, efficient, and privacy-preserving. This includes my work on [detecting LLM-generated text with high precision](https://github.com/ahans30/Binoculars) and [a memorization-mitigating training recipe for LLMs](https://github.com/ahans30/goldfish-loss). The second axis is improving upon existing capabilities. <!-- which involves architectural shifts, recipe refinements, and training data improvements. -->
 
