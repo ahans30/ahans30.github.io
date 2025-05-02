@@ -30,7 +30,7 @@ My research focuses on improving generative models along two axes. First, I aim 
 
 <!-- Before graduate school, I worked in the industry for 5 years in machine learning and data science roles. I hold my a masters in computer science from UMD  and bachelors in mathematics from the University of Delhi. --> 
 
-I’m looking for a research internship for summer 2025, if you are looking to hire one, please hit me up!
+I’m looking for a research internship for Fall 2025, if you are looking to hire one, please hit me up!
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
